@@ -1,3 +1,8 @@
+"""
+The following set of functions is employed to define the geometry within a TNG50 galaxy dataset.
+"""
+
+
 import numpy as np
 
 def pnw_to_sim_coords(vector_pnw, P, N, W):
