@@ -1,7 +1,7 @@
 """
 The following set of functions is employed to define the geometry within a TNG50 galaxy dataset.
+For more details, see "geomtry_description.pdf" file.
 """
-
 
 import numpy as np
 
